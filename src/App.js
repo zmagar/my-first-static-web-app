@@ -10,7 +10,7 @@ function App() {
     })();
   });
 
-  return <div>{data}
+  return <div>{data} '\n'
   <a href="/.auth/login/github">Login</a></div>;
 }
 
