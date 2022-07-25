@@ -12,7 +12,9 @@ function App() {
 
   return <div>
     {data}
-    <a href="/.auth/login/github">Login</a></div>;
+    <p><a href="/.auth/login/github">Login</a></p>
+    
+    </div>;
 }
 
 export default App;
